@@ -1,21 +1,17 @@
 <h1 align="center"> Hey, I'm Nishant Shaklan! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> </h1>
 <p align="center">
-<br>
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width = "100" height = "100">
-<img src = "https://user-images.githubusercontent.com/87887741/138137569-c03af614-7c08-43d8-b2ad-4ea28864022f.gif" width = "100" height = "100">
-<img src="https://user-images.githubusercontent.com/87887741/138171656-80bfc204-e6c3-4a7d-83c2-5c003f671bf3.jpg" width = "100" height = "100">
-<br>
-<br>
-<table>
+<img src="https://user-images.githubusercontent.com/90901154/145469494-81bf83e1-4702-4ceb-b875-83f7b44f0e05.png" width = "350" >
+<table align = "center">
 <tr>
 <td>
 <h2 align = "center">📖 About Me</h2>
 
 <p align = "center">
-🎓 I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Electronic and Communication from DTU, and I m passionate about learning new technologies and frameworks<br>
+🎓 I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Electronic and Communication from DTU.<br>
+🖥 I m passionate about learning new technologies and frameworks.<br>
 👨‍💻 I’m currently learning Full Stack Web Development and DSA.<br>
 👯 I’m looking to collaborate with New Open Source Orginations and Open Source projects.<br>
-💬 Ask me about JavaScript , C++ , Html5, CSS3, Python <br>
+💬 Ask me about JavaScript , C++ , Html, CSS3, Python <br>
 </p>
 </h4>
 </td>
@@ -55,7 +51,8 @@
 <hr>
 
 <!-- GitHub Contribution Graph -->
-<hr><br>
+<h2 align = "center">📈 Contributation Graph</h2>
+
 
 [![Nishant's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=shaklan2001&theme=gotham)](https://github.com/shaklan2001)
 
