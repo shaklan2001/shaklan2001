@@ -86,6 +86,7 @@
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/nishant-shaklan-b68a151a6/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:nishant.ns171@gmail.com@gmail.com?subject=Hello%20Nishant,%20From%20Github"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank" href="https://twitter.com/NShaklan"> <img src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
   </p>
 <hr>
 <h2 align = "center">👨‍👨‍👧‍👧 Visitor Count<br>
