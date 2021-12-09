@@ -1,6 +1,6 @@
 <h1 align="center"> Hey, I'm Nishant Shaklan! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> </h1>
 <p align="center">
-<img src="https://user-images.githubusercontent.com/90901154/145469494-81bf83e1-4702-4ceb-b875-83f7b44f0e05.png" width = "350" >
+<img src="https://user-images.githubusercontent.com/90901154/145472044-7333bd7d-9801-4da6-b933-9118eb08c38d.png" width = "350" >
 <table align = "center">
 <tr>
 <td>
