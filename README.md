@@ -15,7 +15,7 @@
 🎓 I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Electronic and Communication from DTU, and I m passionate about learning new technologies and frameworks<br>
 👨‍💻 I’m currently learning Full Stack Web Development and DSA.<br>
 👯 I’m looking to collaborate with New Open Source Orginations and Open Source projects.<br>
-💬 Ask me about JavaScript , C++ <br>
+💬 Ask me about JavaScript , C++ , Html5, CSS3, Python <br>
 </p>
 </h4>
 </td>
@@ -36,7 +36,6 @@
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
@@ -58,7 +57,7 @@
 <!-- GitHub Contribution Graph -->
 <hr><br>
 
-[![Hitesh's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=shaklan2001&theme=gotham)](https://github.com/shaklan2001)
+[![Nishant's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=shaklan2001&theme=gotham)](https://github.com/shaklan2001)
 
 <hr>
 
