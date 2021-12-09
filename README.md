@@ -53,7 +53,7 @@
 <!-- GitHub Contribution Graph -->
 <hr><br>
 
-[![Hitesh's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=hitesh22rana&theme=gotham)](https://github.com/hitesh22rana)
+[![Nishant Shaklan GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=shaklan2001&theme=gotham)](https://github.com/shaklan2001)
 
 <hr>
 
