@@ -44,8 +44,7 @@
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&style=flat-square&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
-![DOCKEr](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=docker)
-!
+![DOCKER](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 </td>
 </tr>
 </table>
