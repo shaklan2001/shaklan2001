@@ -50,13 +50,6 @@
 </table>
 <hr>
 
-<!-- GitHub Contribution Graph -->
-<h2 align = "center">📈 Contribution Graph</h2>
-
-
-[![Nishant's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=shaklan2001&theme=gotham)](https://github.com/shaklan2001)
-
-<hr>
 
 <h2 align="center">📈 GitHub Statistics</h2>
 
