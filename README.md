@@ -51,7 +51,7 @@
 <hr>
 
 <!-- GitHub Contribution Graph -->
-<h2 align = "center">📈 Contributation Graph</h2>
+<h2 align = "center">📈 Contribution Graph</h2>
 
 
 [![Nishant's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=shaklan2001&theme=gotham)](https://github.com/shaklan2001)
