@@ -80,9 +80,9 @@
 
 <h2 align="center">🔗 Connect With Me</h2>
 <p align="center">
-  <a target="_blank"href="https://www.linkedin.com/in/nishant-shaklan-b68a151a6/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:nishant.ns171@gmail.com@gmail.com?subject=Hello%20Nishant,%20From%20Github"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a target="_blank" href="https://twitter.com/NShaklan"> <img src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+  <a target="_blank"href="https://www.linkedin.com/in/nishant-shaklan-b68a151a6/"\><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nishant-shaklan" height="35" width="45" /></a>
+  <a href="mailto:nishant.ns171@gmail.com@gmail.com?subject=Hello%20Nishant,%20From%20Github"><img align="center" src="https://user-images.githubusercontent.com/91747922/145641534-6a83084f-2982-449d-9b06-64f8ec368f57.png" alt="nishant-shaklan" height="35" width="45" /></a>
+  <a target="_blank" href="https://twitter.com/NShaklan"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nshaklan" height="35" width="45" /></a>
   </p>
 <hr>
 <h2 align = "center">👨‍👨‍👧‍👧 Visitor Count<br>
