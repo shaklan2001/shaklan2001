@@ -21,7 +21,7 @@
 
 <!-- Skills & Technology -->
 
-<h1 align = "center">⚡ Skills & Technologies</h1>
+<h1 align = "center">🛠 Skills & Technologies</h1>
 <table align = "center">
 <tr>
 <td>
