@@ -73,8 +73,8 @@
 
 <h2 align="center">🔗 Connect With Me</h2>
 <p align="center">
-  <a target="_blank"href="https://www.linkedin.com/in/nishant-shaklan-b68a151a6/"\><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nishant-shaklan"  width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:nishant.ns171@gmail.com?subject=Hello%20Nishant,%20From%20Github"><img align="center" src="https://user-images.githubusercontent.com/91747922/145641534-6a83084f-2982-449d-9b06-64f8ec368f57.png" alt="nishant-shaklan" width="45" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://www.linkedin.com/in/nishant-shaklan-b68a151a6/"\><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nishant-shaklan"  width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank" href="https://twitter.com/NShaklan"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nshaklan"  width="45" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   </p>
 <hr>
