@@ -7,7 +7,7 @@
 <h2 align = "center">📖 About Me</h2>
 
 <p align = "center">
-🎓 I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Electronic and Communication from DTU.<br>
+🎓 I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Electronic and Communication.<br>
 🖥 I m passionate about learning new technologies and frameworks.<br>
 👨‍💻 I’m currently learning Full Stack Web Development and DSA.<br>
 🤝 I’m looking to collaborate with New Open Source Organisation and Open Source projects.<br>
