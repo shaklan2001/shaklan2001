@@ -1,6 +1,6 @@
 <p align="center">
 <img src="https://user-images.githubusercontent.com/90901154/145472044-7333bd7d-9801-4da6-b933-9118eb08c38d.png" width = "350" >
-<h1 align="center"> I'm Nishant Shaklan! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> </h1>
+<h1 align="center"> I'm Nishant Shaklan!  </h1>
 <table align = "center">
 <tr>
 <td>
